@@ -1,0 +1,14 @@
+.container{
+    border: 1px solid #000;
+    padding: 50px;
+    width: 50%;
+    border-radius: 20px;
+    margin-top: 80px;
+    
+}
+.mb-3{
+    height: 50px;
+}
+button.btn.btn-success{
+    width: 100%;
+}
